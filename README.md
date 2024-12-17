@@ -16,21 +16,41 @@
 
 <img align="right" src="https://media.giphy.com/media/2IudUHdDDkHjvxzSO2/giphy.gif" width="300" alt="Developer GIF">
 
-```python
 class BrijeshProfile:
     def __init__(self):
-        self.pronouns = "He/Him"
-        self.code = ["Python", "JavaScript", "React", "Java"]
-        self.technologies = {
-            "machine_learning": ["TensorFlow", "PyTorch", "scikit-learn"],
-            "web_dev": ["React", "HTML", "CSS", "JavaScript"],
-            "tools": ["Git", "Docker", "VS Code"]
+        self.name = "Brijesh Kumar Ghadei 👨‍💻"
+        self.location = "🌍 India"
+        self.roles = [
+            "🤖 AI Enthusiast",
+            "💻 Full Stack Developer", 
+            "🧠 Machine Learning Explorer"
+        ]
+        
+        self.skills = {
+            "languages": ["🐍 Python", "☕ Java", "🟨 JavaScript"],
+            "frameworks": {
+                "web": ["⚛️ React", "🌐 Django", "🔧 Flask"],
+                "ml": ["🤖 TensorFlow", "🔬 PyTorch", "📊 scikit-learn"]
+            },
+            "tools": ["🐳 Docker", "🔢 Git", "☁️ Cloud Computing"]
         }
-        self.current_challenge = "Building an AI-powered productivity bot"
+        
+        self.currently_learning = [
+            "🚀 Advanced AI/ML Techniques",
+            "⚛️ Advanced React Concepts",
+            "🧠 Deep Learning Algorithms"
+        ]
+        
+        self.passion = "🌟 Transforming ideas into innovative solutions!"
     
-    def debug(self):
-        return "🎧 Debugging with Lofi beats in the background!"
-```
+    def debug_mode(self):
+        return "🎧 Debugging is my superpower, powered by Lofi beats! 💻🔍"
+    
+    def collaborate(self):
+        return "🤝 Open to exciting projects and innovations!"
+    
+    def fun_fact(self):
+        return "⚡ Can solve complex algorithms while listening to anime soundtracks!"
 
 ## 🚀 Tech Arsenal
 
