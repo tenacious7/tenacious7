@@ -1,89 +1,100 @@
-<!-- Header GIF -->
+# 👋 Hi there! I'm Brijesh Kumar Ghadei 
+
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Coding Animation">
 </p>
 
-# 💫 **<span style="font-family: 'Comic Sans MS', 'Arial', sans-serif;">About Me</span>**
+<!-- Typing Introduction -->
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&width=600&lines=Software+Developer;AI+Enthusiast;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  </a>
+</h2>
 
-<p align="center" style="font-family: 'Comic Sans MS', sans-serif;">
-🔭 <b>I’m currently working on:</b> Exciting projects like an AI-powered productivity bot and anime watchlist app. 🤖🎮<br>
-👯 <b>I’m looking to collaborate on:</b> Web development projects, AI tools, or any open-source innovation. 💻<br>
-🤝 <b>I’m looking for help with:</b> Improving my AI/ML skills and understanding advanced data structures. 🧠<br>
-🌱 <b>I’m currently learning:</b> React.js, Python frameworks (like Flask/Django), and exploring AI/ML concepts. 🐍🔍<br>
-💬 <b>Ask me about:</b> Anime recommendations, coding tips, or how to stay productive as a developer. 🧑‍💻✨<br>
-⚡ <b>Fun fact:</b> I can debug a program faster with Lofi beats playing in the background. 🎧💻
+## 🌟 About Me
+
+<img align="right" src="https://media.giphy.com/media/2IudUHdDDkHjvxzSO2/giphy.gif" width="300" alt="Developer GIF">
+
+```python
+class BrijeshProfile:
+    def __init__(self):
+        self.pronouns = "He/Him"
+        self.code = ["Python", "JavaScript", "React", "Java"]
+        self.technologies = {
+            "machine_learning": ["TensorFlow", "PyTorch", "scikit-learn"],
+            "web_dev": ["React", "HTML", "CSS", "JavaScript"],
+            "tools": ["Git", "Docker", "VS Code"]
+        }
+        self.current_challenge = "Building an AI-powered productivity bot"
+    
+    def debug(self):
+        return "🎧 Debugging with Lofi beats in the background!"
+```
+
+## 🚀 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,java,tensorflow,pytorch,git,github&theme=dark" />
+</p>
+
+## 📊 GitHub Journey
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tenacious7&theme=radical" alt="GitHub Profile Summary" width="100%"/>
+  
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=tenacious7&theme=radical&show_icons=true&include_all_commits=true" alt="GitHub Stats" width="45%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tenacious7&theme=radical" alt="Streak Stats" width="45%"/>
+  </div>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenacious7&theme=radical&layout=compact" alt="Top Languages" width="60%"/>
+</div>
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tenacious7&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/Brijesh Kumar Ghadei" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/brijesh.bilu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/brijesh.bilu" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+## 🎵 Currently Vibing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/your-spotify-username" target="_blank">
+    <img src="https://novatorem-brijesh.vercel.app/api/spotify" alt="Spotify Now Playing"/>
+  </a>
+</p>
+
+## 🔥 Contribution Graph
+
+![Brijesh's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tenacious7&theme=react-dark&hide_border=true)
+
+## 💡 Random Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote"/>
 </p>
 
 ---
 
-## 🌐 **Socials**
 <p align="center">
-  <a href="https://facebook.com/brijesh.bilu"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-  <a href="https://instagram.com/brijesh.bilu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/Brijesh Kumar Ghadei"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=tenacious7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
----
+## 🌈 Fun Fact
 
-## 💻 **Tech Stack**
-<p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tenacious7&theme=radical&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tenacious7&theme=radical&hide_border=false" alt="Streak Stats" width="48%">
-</p>  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenacious7&theme=radical&layout=compact&hide_border=false" alt="Top Languages" width="50%">
-</p>
-
----
-
-## 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tenacious7&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
-</p>
-
----
-
-## 🎧 **Now Playing**
-<p align="center">
-  <img src="https://novatorem-brijesh.vercel.app/api/spotify" alt="Spotify Now Playing">
-</p>
-
----
-
-## 🎉 **Fun GIF**
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250px" alt="Developer GIF">
-</p>
-
----
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tenacious7)
-
----
-
-### 🚀 **Custom Enhancements**  
-1. **Custom Font Style**: Used inline styling for the "About Me" section to stand out.  
-2. **Centered Layout**: Made everything more visually appealing by centering.  
-3. **Dynamic Widgets**: Spotify and GitHub stats for a modern touch.  
-4. **GIFs**: Added GIFs for engagement and fun.
-
----
-
-🔧 Let me know if you need further tweaks or animations! This README will make your profile **super eye-catching**. 🚀
+⚡ Debugging is my superpower, fueled by Lofi beats and endless curiosity! 🎧🐛
