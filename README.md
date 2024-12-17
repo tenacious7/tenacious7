@@ -13,44 +13,34 @@
 </h2>
 
 ## 🌟 About Me
+👋 Hey there! I'm Brijesh Kumar Ghadei, a passionate tech enthusiast and innovative developer from India. 🇮🇳
+🔭 Current Focus: I'm diving deep into exciting projects like an AI-powered productivity bot and an anime watchlist app. 🤖🎮
+🚀 My Tech Journey:
 
-<img align="right" src="https://media.giphy.com/media/2IudUHdDDkHjvxzSO2/giphy.gif" width="300" alt="Developer GIF">
+💻 Full-stack developer with a love for cutting-edge technologies
+🧠 AI and Machine Learning explorer
+⚛️ Actively learning React.js and Python frameworks
 
-class BrijeshProfile:
-    def __init__(self):
-        self.name = "Brijesh Kumar Ghadei 👨‍💻"
-        self.location = "🌍 India"
-        self.roles = [
-            "🤖 AI Enthusiast",
-            "💻 Full Stack Developer", 
-            "🧠 Machine Learning Explorer"
-        ]
-        
-        self.skills = {
-            "languages": ["🐍 Python", "☕ Java", "🟨 JavaScript"],
-            "frameworks": {
-                "web": ["⚛️ React", "🌐 Django", "🔧 Flask"],
-                "ml": ["🤖 TensorFlow", "🔬 PyTorch", "📊 scikit-learn"]
-            },
-            "tools": ["🐳 Docker", "🔢 Git", "☁️ Cloud Computing"]
-        }
-        
-        self.currently_learning = [
-            "🚀 Advanced AI/ML Techniques",
-            "⚛️ Advanced React Concepts",
-            "🧠 Deep Learning Algorithms"
-        ]
-        
-        self.passion = "🌟 Transforming ideas into innovative solutions!"
-    
-    def debug_mode(self):
-        return "🎧 Debugging is my superpower, powered by Lofi beats! 💻🔍"
-    
-    def collaborate(self):
-        return "🤝 Open to exciting projects and innovations!"
-    
-    def fun_fact(self):
-        return "⚡ Can solve complex algorithms while listening to anime soundtracks!"
+🌱 Learning Path:
+
+Expanding skills in React.js
+Diving deeper into Python frameworks (Flask/Django)
+Exploring advanced AI/ML concepts
+
+🤝 Collaboration Goals:
+
+Open to web development projects
+Interested in AI tools
+Passionate about open-source innovations
+
+💬 Let's Connect:
+
+Ask me about anime recommendations
+Seeking coding tips?
+Want to know how to stay productive as a developer?
+
+⚡ Fun Fact: I can debug programs faster with Lofi beats playing in the background! 🎧💻
+Feel free to reach out and let's create something amazing together! 🌈✨
 
 ## 🚀 Tech Arsenal
 
