@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Brijesh Kumar Ghadei 
+# 👋 Hi there! I'm Brijesh 
 
 <!-- Animated Header -->
 <p align="center">
