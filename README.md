@@ -1,4 +1,4 @@
-# 🚀 Brijesh Kumar Ghadei
+#  Brijesh Kumar Ghadei
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&width=700&lines=Data+Analytics+Focused+Developer;AI+%26+ML+Project+Builder;SQL+%7C+Python+%7C+Power+BI;Automation+%26+Intelligent+Systems" />
