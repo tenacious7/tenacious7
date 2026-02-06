@@ -10,7 +10,7 @@
 
 ---
 
-### 👋 Hi, I'm Brijesh Kumar Ghadei
+###  Hi, I'm Brijesh Kumar Ghadei
 
 👋 I’m a Computer Science student and developer focused on **Data Analytics, Artificial Intelligence, and modern Web Application development**. I build practical, real-world projects involving data processing, dashboards, AI workflows, and automation systems. I actively explore machine learning, intelligent tools, and product-style application design while also working on creative tech content and developer experiments.
 
